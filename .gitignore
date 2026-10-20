@@ -1,0 +1,26 @@
+# Contact exports and private data: never commit
+*.vcf
+*.vcard
+*.VCF
+*.VCARD
+*.csv
+*.tsv
+*.abbu
+*.contact
+*.zip
+*.bak
+*.tmp
+*.log
+*.json
+*.sqlite
+*.db
+
+# Python caches / local settings
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
